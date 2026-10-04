@@ -1,0 +1,18 @@
+# Build results - can always be rebuilt
+build_*/
+build_r_*/
+build_tool/
+output/
+*.pdb
+*.log
+
+# Release (installer\BAUE_RELEASE.bat) - goes to the release page, not into the repo
+dist/
+installer/redist/
+
+# The package gets its content when building
+package/JkaExport/Contents/
+
+# Local German working notes and local test scripts/output
+docs/ENTWICKLUNG.md
+test/

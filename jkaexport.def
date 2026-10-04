@@ -1,0 +1,8 @@
+; Kein LIBRARY-Eintrag (LNK4070 bei .dle), die Exportliste genuegt.
+EXPORTS
+    LibDescription       @1
+    LibNumberClasses     @2
+    LibClassDesc         @3
+    LibVersion           @4
+    CanAutoDefer         @5
+    LibInitialize        @6

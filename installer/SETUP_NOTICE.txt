@@ -1,0 +1,17 @@
+JKA Export for 3ds Max 2016-2027
+
+DISCLAIMER
+Unofficial, free fan project. It is NOT made by, affiliated with, endorsed
+or sponsored by Raven Software, Activision, Lucasfilm Ltd., The Walt Disney Company or
+Autodesk. Star Wars is a trademark of Lucasfilm Ltd. / The Walt Disney
+Company; Jedi Academy belongs to its respective owners; 3ds Max is a
+trademark of Autodesk.
+No game data is included.
+
+Requirements
+- Windows 10/11 64-bit, 3ds Max 2016-2027
+- Star Wars Jedi Knight: Jedi Academy to use the exported models
+- Close 3ds Max before installing
+
+License: GPL-3.0 (see LICENSE on GitHub)
+https://github.com/DennisHerrm/JKA-Export-3dsMax
